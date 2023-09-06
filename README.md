@@ -1,1 +1,1 @@
-# spring_boot_simple_microservice_appliocation
+# spring_boot_simple_microservice_application
